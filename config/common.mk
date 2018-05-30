@@ -54,7 +54,8 @@ PRODUCT_PACKAGES += \
     AEXPapers \
     AdAway  \
     OmniJaws \
-    OmniStyle
+    OmniStyle \
+    OmniSwitch
 
 # Themes
 # Accents
