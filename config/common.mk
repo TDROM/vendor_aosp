@@ -48,12 +48,10 @@ PRODUCT_PACKAGES += \
     Launcher3 \
     LiveWallpapers \
     LiveWallpapersPicker \
+    ViaBrowser \
     Stk \
     Turbo \
-    ViaBrowser \
     AEXPapers \
-    RetroMusicPlayer \
-    WallpaperPickerGoogle \
     OmniJaws \
     OmniStyle
 
