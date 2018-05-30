@@ -52,6 +52,7 @@ PRODUCT_PACKAGES += \
     Stk \
     Turbo \
     AEXPapers \
+    AdAway  \
     OmniJaws \
     OmniStyle
 
