@@ -43,10 +43,8 @@ endif
 
 PRODUCT_PACKAGES += \
     BluetoothExt \
-    Terminal \
     LatinIME \
     Launcher3 \
-    LiveWallpapers \
     LiveWallpapersPicker \
     ViaBrowser \
     Stk \
